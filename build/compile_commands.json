@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/timru/Documents/cpp/physics/build",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/oreid.dir/includes_CXX.rsp -g -o CMakeFiles\\oreid.dir\\main.cpp.obj -c C:\\Users\\timru\\Documents\\cpp\\physics\\main.cpp",
-  "file": "C:/Users/timru/Documents/cpp/physics/main.cpp",
-  "output": "CMakeFiles/oreid.dir/main.cpp.obj"
-}
-]
