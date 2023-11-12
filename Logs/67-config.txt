@@ -1,8 +1,0 @@
-// Config:
-fpsCap: 60
-Border Type: 1
-Sweep and Prune Algo enabled: false
-Substeps: 3
-Screen width: 800
-Screen height: 500
-Spawn every n frames: 3
